@@ -57,7 +57,7 @@ literalura/
 ```bash
 git clone https://github.com/OverBM/literalura.git
 ```
-2. Crear la base de datos en pgAdmin4 (O descargar el backup en el branch ```BaseDeDatos```):
+2. Crear la base de datos en pgAdmin4 (O descargar el backup en el branch ```backup```):
 ```sql
 CREATE DATABASE literalura;
 ```
